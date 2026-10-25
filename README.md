@@ -1,4 +1,4 @@
-# Introduction to Git
+# Introduction to Git Exercise
 
 _Use Git version control to work on a game using command line (CLI) and VS Code._
 
